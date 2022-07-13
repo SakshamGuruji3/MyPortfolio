@@ -6,14 +6,14 @@ const About = () => {
         <section className='about'>
             <h2>About Me</h2>
             <p>
-                Lorem ipsum dolor sit amet consectetur,
-                adipisicing elit. Neque, pariatur odio.
-                Maxime, labore nihil illo ea voluptate suscipit aliquid animi
-                possimus laudantium fugit obcaecati harum?
-                Assumenda maiores nam magnam animi? Lorem ipsum dolor sit amet consectetur
-                adipisicing elit. Eaque voluptatibus vitae, rem corrupti id consectetur!
-                Sapiente laboriosam nam excepturi exercitationem natus unde, harum
-                consequatur vero amet consectetur quod sunt autem!
+                I'm a blockchain technology enthusiast who is always up to date with what's happening 
+                in the blochchain world , all the recent attacks/hacks on different platforms and new
+                techgnologies introduced. Using my knowledge of blockhain , writing tests and frontend development
+                I built multiple projects which are listed on my github. I am majoraly inclined towards Smart
+                Contract security/auditing and have completed multiple CTF's and challenges , read every article available
+                and watched every video to polish my skills in the area of auditing.I have developed a passion
+                for smart contract security and want to be part of a team where I can grow and prove my skills
+                as a Smart Contract Auditor.
             </p>
         </section>
     );
