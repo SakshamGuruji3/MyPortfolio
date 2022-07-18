@@ -1,5 +1,5 @@
 // Import Assets
-import profile from '../assets/profile.png';
+import profile from '../assets/profile.jpg';
 
 const Header = () => {
     return (
@@ -8,8 +8,8 @@ const Header = () => {
 
             <div className='header__content'>
                 <h1>Hi, I'm Saksham Seth</h1>
-                <p>Smart Contract Auditor/Blockchain Developer</p>
-                <button className='button'>Get In Touch</button>
+                <p>Smart Contract Security/Auditing</p>
+                <a href="mailto:sakshamseth5@gmail.com" className='button'>Get In Touch</a>
             </div>
         </section>
     );
